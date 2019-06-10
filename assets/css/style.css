@@ -5,7 +5,7 @@
 
 #c1{
     margin-top: 20px;
-    padding: 5px 20px 20px 20px;
+    padding: 15px 15px 15px 15px;
 }
 
 h2{
@@ -39,3 +39,9 @@ h2{
         width:100%;
     }
 }
+
+/* @media (max-width: 1199.98px) { 
+        #c1{
+            width:50%;
+        }
+ } */
