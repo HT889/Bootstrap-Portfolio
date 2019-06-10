@@ -1,0 +1,22 @@
+*{
+    /* outline: 1px solid red; */
+}
+
+#c1{
+    margin-top: 25px;
+    padding: 30px;
+}
+
+.fixed-bottom{
+    color: white;
+    padding: 10px;
+}
+
+.nav-link{
+    color:#fff
+}
+
+#frontpagepic{
+    /* float: left;
+    width: 250px; */
+}
