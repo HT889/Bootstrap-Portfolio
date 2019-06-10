@@ -1,22 +1,41 @@
 *{
     /* outline: 1px solid red; */
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif
 }
 
 #c1{
-    margin-top: 25px;
-    padding: 30px;
+    margin-top: 20px;
+    padding: 5px 20px 20px 20px;
+}
+
+h2{
+    border-bottom: solid black 1px;
+    padding: 10px 5px;
 }
 
 .fixed-bottom{
     color: white;
     padding: 10px;
+    /* position: relative; */
+    border-top: solid rgb(73, 160, 181) 6px;
+    margin-top: 15px;
 }
 
 .nav-link{
     color:#fff
 }
 
-#frontpagepic{
-    /* float: left;
-    width: 250px; */
+.navbar-brand{
+    padding-left: 25px;
+}
+
+#main-img{
+    margin:0px 20px 10px 0px;
+    width:50%;
+}
+
+@media (max-width: 767.98px) { 
+        #main-img{
+        width:100%;
+    }
 }
