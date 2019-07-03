@@ -17,7 +17,7 @@ h2{
     color: white;
     padding: 10px;
     /* position: relative; */
-    border-top: solid rgb(73, 160, 181) 6px;
+    border-top: solid rgb(73, 160, 181) 3px;
     margin-top: 15px;
 }
 
@@ -45,3 +45,7 @@ h2{
             width:50%;
         }
  } */
+
+ #contactformlinks {
+     font-size: 12px;
+ }
